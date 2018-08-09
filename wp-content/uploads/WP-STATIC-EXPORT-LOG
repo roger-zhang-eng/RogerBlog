@@ -1,0 +1,110 @@
+2018-08-08 03:39:53 POST EXPORT CLEANUP: complete
+2018-08-08 03:39:53 CLEANING WORKING FILES:
+2018-08-08 03:39:53 POST EXPORT CLEANUP: starting...
+2018-08-08 03:39:53 ZIP CREATED: Download at http://localhost/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz.zip
+2018-08-08 03:39:53 CREATING ZIP FILE...
+2018-08-08 03:39:53 POST PROCESSING ARCHIVE DIR: ...
+2018-08-08 03:39:53 (RE)CREATING SYMLINK TO LATEST EXPORT FOLDER: /Users/rogerzhang/WebSite/wordpress/wp-content/uploads/latest-1
+2018-08-08 03:39:53 REMOVING SYMLINK: NO LINK FOUND AT/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/latest-1
+2018-08-08 03:39:53 CRAWLING SITE: 0 files remaining
+2018-08-08 03:39:53 SAVING URL: /wordpress/2018/08/07/first-install-wordpress/feed/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/2018/08/07/first-install-wordpress/feed/index.rss
+2018-08-08 03:39:53 CRAWLED FILE: http://localhost/wordpress/2018/08/07/first-install-wordpress/feed/
+2018-08-08 03:39:52 DISCOVERED NEW FILE: http://localhost/wordpress/2018/08/07/first-install-wordpress/feed/
+2018-08-08 03:39:52 SAVING URL: /wordpress/2018/08/07/first-install-wordpress/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/2018/08/07/first-install-wordpress/index.html
+2018-08-08 03:39:52 CRAWLED FILE: http://localhost/wordpress/2018/08/07/first-install-wordpress/
+2018-08-08 03:39:52 CRAWLING URL: http://localhost/wordpress/2018/08/07/first-install-wordpress/
+2018-08-08 03:39:52 CRAWLING SITE: 1 files remaining
+2018-08-08 03:39:52 SAVING URL: /wordpress/2018/08/07/my-first-post/feed/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/2018/08/07/my-first-post/feed/index.rss
+2018-08-08 03:39:52 CRAWLED FILE: http://localhost/wordpress/2018/08/07/my-first-post/feed/
+2018-08-08 03:39:52 DISCOVERED NEW FILE: http://localhost/wordpress/2018/08/07/my-first-post/feed/
+2018-08-08 03:39:52 SAVING URL: /wordpress/2018/08/07/my-first-post/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/2018/08/07/my-first-post/index.html
+2018-08-08 03:39:52 CRAWLED FILE: http://localhost/wordpress/2018/08/07/my-first-post/
+2018-08-08 03:39:52 CRAWLING URL: http://localhost/wordpress/2018/08/07/my-first-post/
+2018-08-08 03:39:51 CRAWLING SITE: 2 files remaining
+2018-08-08 03:39:51 SAVING URL: /wordpress/wp-admin/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-admin/index.html
+2018-08-08 03:39:51 CRAWLED FILE: http://localhost/wordpress/wp-admin/
+2018-08-08 03:39:51 DISCOVERED NEW FILE: http://localhost/wordpress/wp-admin/
+2018-08-08 03:39:51 SAVING URL: /wordpress/sample-page/feed/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/sample-page/feed/index.rss
+2018-08-08 03:39:51 CRAWLED FILE: http://localhost/wordpress/sample-page/feed/
+2018-08-08 03:39:51 DISCOVERED NEW FILE: http://localhost/wordpress/sample-page/feed/
+2018-08-08 03:39:51 SAVING URL: /wordpress/sample-page/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/sample-page/index.html
+2018-08-08 03:39:51 CRAWLED FILE: http://localhost/wordpress/sample-page/
+2018-08-08 03:39:51 CRAWLING URL: http://localhost/wordpress/sample-page/
+2018-08-08 03:39:50 CRAWLING SITE: 3 files remaining
+2018-08-08 03:39:50 SAVING URL: /wordpress/wp-json/oembed/1.0/embed to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-json/oembed/1.0/embed/index.json
+2018-08-08 03:39:50 CRAWLED FILE: http://localhost/wordpress/wp-json/oembed/1.0/embed
+2018-08-08 03:39:50 DISCOVERED NEW FILE: http://localhost/wordpress/wp-json/oembed/1.0/embed
+2018-08-08 03:39:50 SAVING URL: /wordpress/2018/08/07/hello-world/feed/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/2018/08/07/hello-world/feed/index.rss
+2018-08-08 03:39:50 CRAWLED FILE: http://localhost/wordpress/2018/08/07/hello-world/feed/
+2018-08-08 03:39:50 DISCOVERED NEW FILE: http://localhost/wordpress/2018/08/07/hello-world/feed/
+2018-08-08 03:39:50 SAVING URL: /wordpress/2018/08/07/hello-world/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/2018/08/07/hello-world/index.html
+2018-08-08 03:39:50 CRAWLED FILE: http://localhost/wordpress/2018/08/07/hello-world/
+2018-08-08 03:39:50 CRAWLING URL: http://localhost/wordpress/2018/08/07/hello-world/
+2018-08-08 03:39:50 CRAWLING SITE: 4 files remaining
+2018-08-08 03:39:50 SAVING URL: /wordpress/wp-content/themes/clutterless/license.txt to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-content/themes/clutterless/license.txt
+2018-08-08 03:39:50 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/clutterless/license.txt
+2018-08-08 03:39:50 CRAWLING URL: http://localhost/wordpress/wp-content/themes/clutterless/license.txt
+2018-08-08 03:39:50 CRAWLING SITE: 5 files remaining
+2018-08-08 03:39:50 SAVING URL: /wordpress/wp-content/themes/clutterless/readme.txt to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-content/themes/clutterless/readme.txt
+2018-08-08 03:39:50 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/clutterless/readme.txt
+2018-08-08 03:39:50 CRAWLING URL: http://localhost/wordpress/wp-content/themes/clutterless/readme.txt
+2018-08-08 03:39:49 CRAWLING SITE: 6 files remaining
+2018-08-08 03:39:49 SAVING URL: /wordpress/wp-content/themes/clutterless/style.css to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-content/themes/clutterless/style.css
+2018-08-08 03:39:49 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/clutterless/style.css
+2018-08-08 03:39:49 CRAWLING URL: http://localhost/wordpress/wp-content/themes/clutterless/style.css
+2018-08-08 03:39:49 CRAWLING SITE: 7 files remaining
+2018-08-08 03:39:49 SAVING URL: /wordpress/wp-content/themes/clutterless/readme.md to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-content/themes/clutterless/readme.md
+2018-08-08 03:39:49 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/clutterless/readme.md
+2018-08-08 03:39:49 CRAWLING URL: http://localhost/wordpress/wp-content/themes/clutterless/readme.md
+2018-08-08 03:39:49 CRAWLING SITE: 8 files remaining
+2018-08-08 03:39:49 SAVING URL: /wordpress/wp-content/themes/clutterless/screenshot.png to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-content/themes/clutterless/screenshot.png
+2018-08-08 03:39:49 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/clutterless/screenshot.png
+2018-08-08 03:39:49 CRAWLING URL: http://localhost/wordpress/wp-content/themes/clutterless/screenshot.png
+2018-08-08 03:39:49 CRAWLING SITE: 9 files remaining
+2018-08-08 03:39:49 SAVING URL: /wordpress/wp-content/themes/clutterless/.DS_Store to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-content/themes/clutterless/.DS_Store
+2018-08-08 03:39:49 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/clutterless/.DS_Store
+2018-08-08 03:39:49 CRAWLING URL: http://localhost/wordpress/wp-content/themes/clutterless/.DS_Store
+2018-08-08 03:39:49 CRAWLING SITE: 10 files remaining
+2018-08-08 03:39:49 SAVING URL: /wordpress/wp-content/themes/clutterless/frontend/js/custom-code-min.js to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-content/themes/clutterless/frontend/js/custom-code-min.js
+2018-08-08 03:39:49 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/clutterless/frontend/js/custom-code-min.js
+2018-08-08 03:39:49 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/clutterless/frontend/js/custom-code-min.js
+2018-08-08 03:39:49 SAVING URL: /wordpress/wp-content/themes/clutterless/frontend/js/ajax-archives-min.js to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-content/themes/clutterless/frontend/js/ajax-archives-min.js
+2018-08-08 03:39:49 CRAWLED FILE: http://localhost/wordpress/wp-content/themes/clutterless/frontend/js/ajax-archives-min.js
+2018-08-08 03:39:49 DISCOVERED NEW FILE: http://localhost/wordpress/wp-content/themes/clutterless/frontend/js/ajax-archives-min.js
+2018-08-08 03:39:49 SAVING URL: /wordpress/comments/feed/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/comments/feed/index.rss
+2018-08-08 03:39:49 CRAWLED FILE: http://localhost/wordpress/comments/feed/
+2018-08-08 03:39:48 DISCOVERED NEW FILE: http://localhost/wordpress/comments/feed/
+2018-08-08 03:39:48 SAVING URL: /wordpress/category/uncategorized/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/category/uncategorized/index.html
+2018-08-08 03:39:48 CRAWLED FILE: http://localhost/wordpress/category/uncategorized/
+2018-08-08 03:39:48 DISCOVERED NEW FILE: http://localhost/wordpress/category/uncategorized/
+2018-08-08 03:39:48 SAVING URL: /wordpress/2018/08/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/2018/08/index.html
+2018-08-08 03:39:48 CRAWLED FILE: http://localhost/wordpress/2018/08/
+2018-08-08 03:39:48 DISCOVERED NEW FILE: http://localhost/wordpress/2018/08/
+2018-08-08 03:39:48 SAVING URL: /wordpress/wp-json/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-json/index.json
+2018-08-08 03:39:48 CRAWLED FILE: http://localhost/wordpress/wp-json/
+2018-08-08 03:39:48 DISCOVERED NEW FILE: http://localhost/wordpress/wp-json/
+2018-08-08 03:39:48 SAVING URL: /wordpress/wp-includes/js/jquery/jquery-migrate.min.js to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-includes/js/jquery/jquery-migrate.min.js
+2018-08-08 03:39:48 CRAWLED FILE: http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js
+2018-08-08 03:39:48 DISCOVERED NEW FILE: http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js
+2018-08-08 03:39:48 SAVING URL: /wordpress/wp-includes/js/jquery/jquery.js to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/wp-includes/js/jquery/jquery.js
+2018-08-08 03:39:48 CRAWLED FILE: http://localhost/wordpress/wp-includes/js/jquery/jquery.js
+2018-08-08 03:39:48 DISCOVERED NEW FILE: http://localhost/wordpress/wp-includes/js/jquery/jquery.js
+2018-08-08 03:39:48 SAVING URL: /wordpress/feed/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/feed/index.rss
+2018-08-08 03:39:48 CRAWLED FILE: http://localhost/wordpress/feed/
+2018-08-08 03:39:48 DISCOVERED NEW FILE: http://localhost/wordpress/feed/
+2018-08-08 03:39:48 SAVING URL: /wordpress/ to new path/Users/rogerzhang/WebSite/wordpress/wp-content/uploads/wp-static-html-output-1-1533699587-rogerz/wordpress/index.html
+2018-08-08 03:39:48 CRAWLED FILE: http://localhost/wordpress/
+2018-08-08 03:39:47 CRAWLING URL: http://localhost/wordpress/
+2018-08-08 03:39:47 STARTING EXPORT: initial crawl list contains 12 files
+2018-08-08 03:39:47 STARTING EXPORT: STATIC EXPORT URL https://rogerzhang.me
+2018-08-08 03:39:47 STARTING EXPORT: VIA CLI? 
+2018-08-08 03:39:47 STARTING EXPORT: PLUGIN VERSION 5.3
+2018-08-08 03:39:47 STARTING EXPORT: WP ADDRESS http://localhost/wordpress
+2018-08-08 03:39:47 STARTING EXPORT: WP HOME http://localhost/wordpress
+2018-08-08 03:39:47 STARTING EXPORT: WP SITEURL http://localhost/wordpress
+2018-08-08 03:39:47 STARTING EXPORT: WP URL http://localhost/wordpress
+2018-08-08 03:39:47 STARTING EXPORT: WP VERSION 4.9.8
+2018-08-08 03:39:47 STARTING EXPORT: OS VERSION Darwin bri-sot-wic-crt2-pos-5-0.tpgi.com.au 17.5.0 Darwin Kernel Version 17.5.0: Mon Mar  5 22:24:32 PST 2018; root:xnu-4570.51.1~1/RELEASE_X86_64 x86_64
+2018-08-08 03:39:47 STARTING EXPORT: PHP MAX EXECUTION TIME 30
+2018-08-08 03:39:47 STARTING EXPORT: PHP VERSION 7.1.14
+2018-08-08 03:39:47 STARTING EXPORT2018-08-08 03:39:47
